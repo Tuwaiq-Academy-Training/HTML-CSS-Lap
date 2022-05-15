@@ -1,4 +1,5 @@
 # HTML-CSS-Lap
+Create an HTML page and Build the basic structure and apply tasks to it
 
 ## Task 1
 ### Inline style: 
