@@ -24,7 +24,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url("/images/apple-pie.jpg");
+  background-image: url("images/apple-pie.jpg");
   background-size: cover;
 
   display: flex;
